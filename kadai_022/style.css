@@ -37,7 +37,7 @@ main{
 
 h2{
   font-size: 25px;
-  text-decoration: underline 3px rgb(236, 122, 122);
+  border-bottom: 3px dotted  rgb(236, 122, 122);
 }
 h2::before{
   content: "●";
